@@ -27,11 +27,6 @@ tags:
             border-radius: 5px;
             transition: background 0.3s;
         }
-    <div id="galaxy" class="fixed inset-0">
-        <div class="hidden dark:block">
-            <TwinklingStars/>
-            <MeteorShower/>
-        </div>
     </style>
 </head>
 <body>

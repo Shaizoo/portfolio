@@ -6,7 +6,6 @@ date: "Mar 27 2025"
 draft: false
 tags:
 - Tutorial
-
 ---
 <html>
 <head>
@@ -27,6 +26,7 @@ tags:
             border-radius: 5px;
             transition: background 0.3s;
         }
+        </div>
     </style>
 </head>
 <body>

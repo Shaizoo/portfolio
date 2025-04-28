@@ -5,15 +5,19 @@ dateStart: "01/01/2023"
 dateEnd: "30/01/2023"
 ---
 
-Au sein de l’entreprise YPSI, spécialisée dans l'intégration de solutions informatiques, j'ai découvert le fonctionnement d'une entreprise d'infogérance et de services IT.
-Mes principales activités :
+Chez YPSI, j’ai été intégré à un environnement d'infogérance et de projets cloud. Pour entrer en stage, j'ai présenté deux projets innovants :
 
-    •Préparation de serveurs et de postes clients pour différents clients professionnels.
+    •Création d'une infrastructure CTF (Capture The Flag) pour héberger des défis de cybersécurité, afin de sensibiliser et former à la sécurité informatique.
 
-    •Installation et paramétrage de logiciels métiers spécifiques.
+    •Reproduction d'une infrastructure du jeu de plateau "Archicloud", afin de la rendre fonctionnelle dans un environnement informatique réel.
 
-    •Participation à des projets de migration de données et de mises à jour systèmes.
+Après avoir accompli ces deux projets, j’ai fusionné les deux infrastructures en un environnement unique enrichi de :
 
-    •Intervention en clientèle pour des opérations de maintenance et d'assistance technique.
+    •Un serveur WordPress pour l'hébergement de contenus.
 
-Ce stage a renforcé mes connaissances techniques et m’a permis de mieux comprendre l’importance de la relation client dans le domaine informatique.
+    •Un serveur VPN pour la sécurisation des accès.
+
+Plateforme utilisée : Flexible Engine d’Orange Business Services, une solution cloud offrant scalabilité, flexibilité et sécurité.
+
+Ce stage m'a permis de travailler en environnement cloud réel, de développer mes compétences en architecture système, en sécurité informatique, et en gestion de projet IT.
+

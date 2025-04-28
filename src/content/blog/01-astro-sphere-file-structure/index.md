@@ -38,7 +38,7 @@ tags:
 <body>
     <main>
         <div class="preview-container">
-            <embed src="" type="application/pdf" />
+            <embed src="public/FP/SNIPE-IT-FP.pdf" type="application/pdf" />
         </div>
         <section>
             <a href="" download>⬇️ Télécharger le PDF</a>

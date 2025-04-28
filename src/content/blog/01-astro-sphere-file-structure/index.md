@@ -38,10 +38,10 @@ tags:
 <body>
     <main>
         <div class="preview-container">
-            <embed src="/FP/SNIPE-IT-FP.pdf" type="application/pdf" />
+            <embed src="" type="application/pdf" />
         </div>
         <section>
-            <a href="/FP/SNIPE-IT FP.pdf" download>⬇️ Télécharger le PDF</a>
+            <a href="" download>⬇️ Télécharger le PDF</a>
         </section>
     </main>
 </body>

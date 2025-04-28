@@ -28,16 +28,9 @@ tags:
         }
         a {
             display: inline-block;
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #f0f0f0;
-            color: #333;
             text-decoration: none;
             border-radius: 5px;
             transition: background 0.3s;
-        }
-        a:hover {
-            background-color: #e0e0e0;
         }
     </style>
 </head>

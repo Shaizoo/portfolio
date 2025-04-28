@@ -6,6 +6,7 @@ draft: false
 tags:
 - Tutorial
 ---
+
 <html>
 <head>
     <style>
@@ -37,10 +38,10 @@ tags:
 <body>
     <main>
         <div class="preview-container">
-            <embed src="https://www.canva.com/design/DAGAteor6rE/2qmd3aioZOvntlO-_iuSZA/view?utm_content=DAGAteor6rE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf65097722c" type="application/pdf" />
+            <embed src="/FP/SNIPE-IT-FP.pdf" type="application/pdf" />
         </div>
         <section>
-            <a href="[votre-lien-de-téléchargement]" download>⬇️ Télécharger le PDF</a>
+            <a href="/FP/SNIPE-IT FP.pdf" download>⬇️ Télécharger le PDF</a>
         </section>
     </main>
 </body>

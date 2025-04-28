@@ -41,7 +41,7 @@ tags:
             <embed src="/public/FP/SNIPE-IT-FP.pdf" type="application/pdf" />
         </div>
         <section>
-            <a href="" download>⬇️ Télécharger le PDF</a>
+            <a href="/public/FP/SNIPE-IT-FP.pdf" download>⬇️ Télécharger le PDF</a>
         </section>
     </main>
 </body>
